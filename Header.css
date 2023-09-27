@@ -1,0 +1,98 @@
+.header{
+    height: 80px;
+    display: flex;
+    background-color: rgb(64 62 49);
+    position: sticky;
+    top: 0;
+    align-items: center;
+    background:#8674ad;
+    color: black;
+    z-index: 100;
+}
+
+
+.headlogo{
+    border-radius: 395px;
+    margin: 0px;
+    margin-right: 32px;
+    margin-left:32px;
+    margin:0 20px;
+    height: 70px;
+    z-index: 100;
+    margin-top: 6px;
+    
+
+
+
+}
+
+.headsearch{
+    display: flex;
+    flex:1;
+    align-items: center;
+    border-radius: 25px;
+    color: black !important;
+}
+
+.headsearchi{
+    background-color:rgb(157, 238, 231);
+    padding: 6px;
+    height: 20px;
+    color: black !important;
+}
+
+.headsearchin{
+    width: 100%;
+    height: 12px;
+    padding: 10px;
+    border: none;
+    color: black !important;
+}
+
+.headnav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.headoption{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-left: 12px;
+    margin-right: 10px;
+    color: black !important;
+}
+
+.headopone
+{
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.headoptwo{
+    font-size: 14px;
+    font-weight: 800;
+
+}
+
+.headoptionbas{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.headopc{
+    margin: 0 10px;
+}
+.logo-link{
+    text-decoration: none;
+    color: black !important;
+}
+.link-order{
+    text-decoration: none;
+    color: black !important;
+}
+.logo-busi{
+    text-decoration: none;
+    color: black !important;
+}

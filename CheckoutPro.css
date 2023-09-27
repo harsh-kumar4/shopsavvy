@@ -1,0 +1,37 @@
+.checkp {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.cpi {
+    padding-left: 20px
+    
+}
+
+.cpif> button {
+    background: #92cef3;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+}
+.cpif> button:hover{
+    background-color: antiquewhite;
+}
+
+.cpi {
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+    margin: auto;
+  }
+
+
+
+.cpt {
+    margin-top: 20px;
+    
+    font-size: 17px;
+    font-weight: 800;
+}
